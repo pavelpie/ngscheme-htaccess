@@ -1,15 +1,15 @@
 {
   "name": "@appiec/htaccess",
   "version": "0.0.1",
-  "description": "A blank schematics",
+  "description": "Generate .htaccess file for Angular application",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && jasmine src/**/*_spec.js"
   },
   "keywords": [
-    "schematics"
+    "schematics", "htaccess schematic"
   ],
-  "author": "",
+  "author": "Pawel Pieczonka",
   "license": "MIT",
   "schematics": "./src/collection.json",
   "dependencies": {
