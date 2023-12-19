@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "htaccess": {
+      "description": "A blank schematic.",
+      "factory": "./htaccess/index#htaccess"
+    }
+  }
+}
