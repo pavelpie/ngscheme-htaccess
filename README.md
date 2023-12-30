@@ -20,5 +20,5 @@ npm install @appiec/htaccess
 ```
 Usage:
 ```bash
-ng generate htaccess:htaccess
+ng generate @appiec/htaccess:htaccess
 ```
