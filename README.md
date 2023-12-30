@@ -16,7 +16,7 @@ The `htaccess` schematic allows for quick generation of the `.htaccess` configur
 First, you need to add the `htaccess` schematic to your Angular project:
 
 ```bash
-npm install [your-schematic-name]
+npm install @appiec/htaccess
 ```
 Usage:
 ```bash
