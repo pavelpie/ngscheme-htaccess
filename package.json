@@ -1,6 +1,6 @@
 {
   "name": "@appiec/htaccess",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate .htaccess file for Angular application",
   "scripts": {
     "build": "tsc -p tsconfig.json",
